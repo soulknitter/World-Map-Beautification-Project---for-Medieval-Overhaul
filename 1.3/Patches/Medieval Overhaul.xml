@@ -21,7 +21,13 @@
 					<impassableSizeMultiplier>1.3</impassableSizeMultiplier>
 				</li>
 			</value>
-		</match>
+		</xpath>
+	</Operation>
+	
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Medieval Overhaul</li>
+		</mods>
 		<match Class="PatchOperationAddModExtension">
 			<xpath>/Defs/BiomeDef[defName = "DankPyon_AncientForest"]</xpath>
 			<value>
@@ -39,4 +45,5 @@
 			</value>
 		</match>
 	</Operation>
+	
 </Patch>
