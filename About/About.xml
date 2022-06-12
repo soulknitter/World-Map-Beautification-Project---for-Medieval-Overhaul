@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ModMetaData>
   <name>World Map Beautification Project - for Medieval Overhaul</name>
-  <author>Soul</author>
+  <author>crsongbird, Soul, CosmicOdeum</author>
   <supportedVersions>
     <li>1.2</li>
 	  <li>1.3</li>
   </supportedVersions>
-  <packageId>Soul.DLC.WMBP.mo</packageId>
+  <packageId>crsongbirb.wmbp.mo</packageId>
   <modDependencies>
     <li>
       <packageId>DankPyon.Medieval.Overhaul</packageId>
@@ -27,31 +27,11 @@
     <li>DankPyon.Medieval.Overhaul</li>
   </loadAfter>
   <description>
-
-    [h1] Medieval Overhaul Addon [/h1]
-    This is a DLC for the mod "Medieval Overhaul" by SirLalaPyon.
-
-    The DLC adds support for the "Medieval Overhaul" mod
-
-    [h1] Features [/h1]
-    [b]Dark Forest[/b]
-    - An ancient wilderness tall like no other, a place of dim light and dense, overwhelming vegetation. Commonly used to procure broad variety of cautionary tales for mischievous children. And justly so. Not many live long enough to carry this knowledge out of the forest.
-    - New worldmap tiles inline with "World Map Enhanced"
-
-    [h1] Credits [/h1]
-    Odeum for the "World Map Beautification Project" mod
-    https://steamcommunity.com/sharedfiles/filedetails/?id=2314407956
-
-    SirLalaPyon for the "Medieval Overhaul" mod
-    https://steamcommunity.com/sharedfiles/filedetails/?id=2553700067
-
-    Sacrificial Goat for inspiration, resources and their WMBP Patches
-    https://steamcommunity.com/sharedfiles/filedetails/?id=2382824716
-
-    [h1] Changelog [/h1]
-    01/02/2021 - 1.0: Initial Release
-
-
-
+    World Map Beautification Project - for Medieval Overhaul
+	==================================
+	
+	Patches the World Map Beautification Project by CosmicOdeum to work with Medieval Overhaul by DankPyon.
+	- Supporting Ancient Forest biome (patch by crsongbird)
+	- Supporting Dark Forest biome (patch by Soul)
   </description>
 </ModMetaData>
